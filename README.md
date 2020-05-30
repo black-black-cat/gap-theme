@@ -4,4 +4,8 @@
 
 **Enjoy!**
 
-Reference: https://github.com/gaplo917/GapStyle
+## Reference:
+
+https://github.com/gaplo917/GapStyle
+
+https://github.com/tinacious/vscode-tinacious-design-syntax
