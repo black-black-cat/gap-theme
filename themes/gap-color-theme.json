@@ -25,7 +25,7 @@
         "#20999D",
         "#AE81FE",
         "#CBAD96",
-        "#CCBB55",
+        "#A9B7C6",
         "#0ED38B",
         "#BBB529",
         "#E8BF6A",
@@ -214,13 +214,13 @@
         },
         "property": {
             "fontStyle": "",
-            "foreground": "#CCBB55"
+            "foreground": "#A9B7C6"
         },
         "property.static": {
             "fontStyle": "italic"
         },
         "property.readonly": {
-            "foreground": "#CCBB55"
+            "foreground": "#A9B7C6"
         },
         "enumMember": {
             "foreground": "#4186F8"
@@ -691,7 +691,7 @@
                 "entity.name.function.target.makefile"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
@@ -917,7 +917,7 @@
                 "meta.object.member"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
@@ -1314,7 +1314,7 @@
                 "source.sass constant.language.color.rgb-value.css"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
@@ -1460,7 +1460,7 @@
                 "meta.class.body.java meta.definition.variable variable.other.definition"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
@@ -1596,7 +1596,7 @@
                 "meta.object-binding-pattern-variable.ts variable.object.property.ts"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
@@ -1825,7 +1825,7 @@
                 "meta.preprocessor.macro.cpp"
             ],
             "settings": {
-                "foreground": "#CCBB55",
+                "foreground": "#A9B7C6",
                 "fontStyle": ""
             }
         },
@@ -2063,7 +2063,7 @@
                 "variable.other.swift"
             ],
             "settings": {
-                "foreground": "#CCBB55",
+                "foreground": "#A9B7C6",
                 "fontStyle": ""
             }
         },
@@ -2130,7 +2130,7 @@
                 "string.unquoted.alias.graphql"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
@@ -2158,7 +2158,7 @@
                 "variable.graphql"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
@@ -2204,7 +2204,7 @@
                 "meta.class.body.php variable.other.php punctuation.definition.variable.php"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
@@ -2307,7 +2307,7 @@
                 "entity.name.tag.yaml"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
@@ -2360,7 +2360,7 @@
                 "entity.name.tag.toml"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
@@ -2399,7 +2399,7 @@
                 "keyword.other.definition.ini"
             ],
             "settings": {
-                "foreground": "#CCBB55",
+                "foreground": "#A9B7C6",
                 "fontStyle": ""
             }
         },
@@ -2517,7 +2517,7 @@
                 "constant.other.key.groovy"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
@@ -2633,17 +2633,18 @@
                 "entity.other.ng-binding-name"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#A9B7C6"
             }
         },
         {
             "name": "Vue Binding",
             "scope": [
                 "meta.directive.vue",
-                "meta.directive.vue entity.other.attribute-name.html"
+                "meta.directive.vue entity.other.attribute-name.html",
+                "source.vue entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#CCBB55"
+                "foreground": "#89BB26"
             }
         }
     ]

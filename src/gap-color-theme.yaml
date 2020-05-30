@@ -26,7 +26,7 @@ variables:
   - &NUMBER '#AE81FE'
   - &LOCAL_VAR '#CBAD96'
   # - &MEMBER_VAR '#CF8823'
-  - &MEMBER_VAR '#CCBB55'
+  - &MEMBER_VAR '#A9B7C6'
   - &INTERFACE '#0ED38B'
   - &DECORATOR '#BBB529'
   - &XML_TAG '#E8BF6A'
@@ -2167,5 +2167,6 @@ tokenColors:
     scope:
     - meta.directive.vue
     - meta.directive.vue entity.other.attribute-name.html
+    - source.vue entity.other.attribute-name
     settings:
-      foreground: *MEMBER_VAR
+      foreground: *ATTR_NAME

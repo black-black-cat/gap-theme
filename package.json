@@ -1,5 +1,6 @@
 {
   "name": "gap",
+  "repository": "https://github.com/black-black-cat/gap-theme",
   "displayName": "gap",
   "description": "theme",
   "version": "0.0.1",
@@ -15,6 +16,11 @@
         "label": "gap",
         "uiTheme": "vs-dark",
         "path": "./themes/gap-color-theme.json"
+      },
+      {
+        "label": "gapt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gapt.json"
       }
     ]
   },
