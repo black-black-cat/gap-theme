@@ -21,6 +21,11 @@
         "label": "gapt",
         "uiTheme": "vs-dark",
         "path": "./themes/gapt-color-theme.json"
+      },
+      {
+        "label": "gapr",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gapr-color-theme.json"
       }
     ]
   },
