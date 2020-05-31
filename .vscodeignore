@@ -1,4 +1,12 @@
-.vscode/**
-.vscode-test/**
+.editorconfig
+.github/**
 .gitignore
+.vscode-test/**
+.vscode/**
+bin/**
+known_issues.md
+node_modules/**
+scripts/**
+src/**
+tests/**
 vsc-extension-quickstart.md
