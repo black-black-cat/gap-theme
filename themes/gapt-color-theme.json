@@ -167,7 +167,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#1ec9b1"
+        "foreground": "#00BFFF"
       }
     },
     // {
@@ -181,7 +181,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
       "scope": "punctuation.definition.bold.markdown",
       "settings": {
-        "foreground": "#1ec9b1"
+        "foreground": "#00BFFF"
       }
     },
     // {
@@ -382,7 +382,7 @@
       "scope": "support.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "#1ec9b1"
+        "foreground": "#00BFFF"
       }
     },
     {
@@ -390,7 +390,7 @@
       "scope": "support.constant",
       "settings": {
         "fontStyle": "",
-        "foreground": "#1ec9b1"
+        "foreground": "#00BFFF"
       }
     },
     {
@@ -489,16 +489,16 @@
     "statusBar.noFolderForeground": "#fff",
     // Terminal
     "terminal.ansiBlack": "#2c2c3e",
-    "terminal.ansiBlue": "#00BFFFaa",
+    "terminal.ansiBlue": "#528bffaa",
     "terminal.ansiBrightBlack": "#3d3d56",
-    "terminal.ansiBrightBlue": "#00BFFF",
-    "terminal.ansiBrightCyan": "#1ec9b1",
+    "terminal.ansiBrightBlue": "#528bff",//528bff
+    "terminal.ansiBrightCyan": "#00BFFF",
     "terminal.ansiBrightGreen": "#00D364",
     "terminal.ansiBrightMagenta": "#CC66FF",
     "terminal.ansiBrightRed": "#ff3399",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#FFCC66",
-    "terminal.ansiCyan": "#1ec9b1aa",
+    "terminal.ansiCyan": "#00BFFFaa",
     "terminal.ansiGreen": "#00D364aa",
     "terminal.ansiMagenta": "#CC66FFaa",
     "terminal.ansiRed": "#ff3399aa",
