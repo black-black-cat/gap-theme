@@ -20,7 +20,7 @@
       {
         "label": "gapt",
         "uiTheme": "vs-dark",
-        "path": "./themes/gapt.json"
+        "path": "./themes/gapt-color-theme.json"
       }
     ]
   },
